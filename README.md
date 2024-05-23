@@ -1,4 +1,4 @@
-Bu proje, önemli tarihi olaylar ve bireylerin bilgilerini kaydetmek için geliştirilmiş bir veri tabanı sistemidir. Python kullanılarak oluşturulan bu sistemde, kullanıcılar tarihi olayları ve kişileri ekleyebilir, bu bilgileri güncelleyebilir ve arayüz üzerinden görüntüleyebilirler. Sistem, tarih meraklıları ve araştırmacılar için kullanışlı bir araç olarak tasarlanmıştır, böylece önemli tarihsel verileri merkezi bir yerden yönetebilirler.
+Bu proje, önemli tarihi olaylar ve bireylerin bilgilerini kaydetmek için geliştirilmiş bir veri tabanı sistemidir. Python kullanılarak oluşturulan bu sistemde, kullanıcılar tarihi olayları ve kişileri ekleyebilir, bu bilgileri güncelleyebilir ve arayüz üzerinden görüntüleyebilirler. Sistem, tarih meraklıları ve araştırmacılar için kullanışlı bir araç olarak tasarlanmıştır, böylece önemli tarihsel verileri merkezi bir yerden yönetebilirler. 
 
 ![Tarihçi - Tarihi Olaylar Veritabanı 6 05 2024 16_08_32](https://github.com/YusufSural/TarihVeriTabani-18/assets/84929731/b11f5b81-9100-4621-8608-7f5ef6b0eaac)
 
